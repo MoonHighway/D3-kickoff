@@ -1,6 +1,6 @@
 {
   "name": "d3-intro",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A course designed to introduce javascript developers to d3",
   "main": "./bin/www",
   "scripts": {
