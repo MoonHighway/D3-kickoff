@@ -35,7 +35,7 @@ module.exports = function (grunt) {
                         dest: 'class-files',
                         ext: '.html',
                         rename: function (dest, src) {
-                            if (src == 'readme.html') {
+                            if (src === 'readme.html') {
                                 src = 'index.html';
                             }
                             return dest + "/" + src;
