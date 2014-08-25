@@ -1,0 +1,33 @@
+{
+  "name": "d3-intro",
+  "version": "0.0.0",
+  "description": "A course designed to introduce javascript developers to d3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoonTahoe/d3-intro.git"
+  },
+  "keywords": [
+    "Data",
+    "Driven",
+    "Documents",
+    "D3",
+    "tutorial",
+    "class",
+    "learning"
+  ],
+  "author": "Moon Highway (Alex Banks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoonTahoe/d3-intro/issues"
+  },
+  "homepage": "https://github.com/MoonTahoe/d3-intro",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "0.0.15",
+    "grunt-contrib-jshint": "^0.10.0"
+  }
+}
