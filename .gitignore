@@ -31,6 +31,3 @@ node_modules
 
 # Webstorm IDE Assets
 .idea/
-
-# Ignore the generated file
-class-files/index.html
