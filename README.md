@@ -29,7 +29,6 @@ Agenda
 * [Pie Charts](/pie-charts)
 * [Geo Data and Maps](/geo-data)
 
-
 Installation
 ------------
 1. Install the dependencies

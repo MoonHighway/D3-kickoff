@@ -52,6 +52,6 @@ module.exports = function (grunt) {
 
     grunt.registerTask('convert', ['markdown']);
     grunt.registerTask('check', ['jshint']);
-    grunt.registerTask('default', ['check', 'convert', 'bump']);
+    grunt.registerTask('default', ['check', 'convert']);
 
 };
