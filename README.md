@@ -17,17 +17,17 @@ Expectations
 
 Agenda
 ------
-* Intro do Data Driven Documents
-* Manipulating the DOM
-* Bar Graphs
-* Loading Data
-* SVG Introduction
-* Line Graphs
-* Scatter Graphs Charts
-* Calendars
-* Transitions
-* Pie Charts
-* Geo Data and Maps
+* [Intro do Data Driven Documents](/intro)
+* [Manipulating the DOM](/intro)
+* [Bar Graphs](/bar-graph)
+* [Loading Data](/loading-data)
+* [SVG Introduction](/svg)
+* [Line Graphs](/line-graphs)
+* [Scatter Graphs Charts](/scatter-graphs)
+* [Calendars](/calendars)
+* [Transitions](/transitions)
+* [Pie Charts](/pie-charts)
+* [Geo Data and Maps](/geo-data)
 
 
 Installation
