@@ -1,0 +1,31 @@
+{
+  "name": "D3-intro",
+  "version": "0.0.1",
+  "description": "Class files for the Moon Highway D3 Intro course.",
+  "main": "GruntFile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "^0.0.15",
+    "grunt-contrib-jshint": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoonTahoe/D3-intro.git"
+  },
+  "keywords": [
+    "D3",
+    "tutorial",
+    "training",
+    "files"
+  ],
+  "author": "Moon Highway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoonTahoe/D3-intro/issues"
+  },
+  "homepage": "https://github.com/MoonTahoe/D3-intro"
+}

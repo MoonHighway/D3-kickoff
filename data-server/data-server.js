@@ -2,7 +2,7 @@ var express = require('express');
 var path = require('path');
 var logger = require('morgan');
 var routes = require('./routes');
-var cors = require('cors')
+var cors = require('cors');
 var app = express();
 
 // view engine setup
