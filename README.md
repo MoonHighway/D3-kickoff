@@ -1,7 +1,7 @@
 Introduction to Data Driven Documents
 =====================================
 This course is an introduction to Data Driven Documents more popularly know as D3.  This course will introduce the 
-fundementails of creating data visulazations to engineers who have Javascript experience.
+fundamentals of creating data visualizations to engineers who have Javascript experience.
 
 Goals
 -----
@@ -22,31 +22,22 @@ Expectations
 Agenda
 ------
 
+### Day 1
+* What is D3?
+* D3 Data and the DOM
+* Building a Golf Scorecard
+* Loading and Traversing Data
+* Introducing SVG
+* Creating Golf Scores Bar Graph
+* Bonus Challenges
 
-
-
-
-
-* [Intro do Data Driven Documents](/intro)
-* [Manipulating the DOM](/intro)
-* [Bar Graphs](/bar-graph)
-* [Loading Data](/loading-data)
-* [SVG Introduction](/svg)
-* [Line Graphs](/line-graphs)
-* [Scatter Graphs Charts](/scatter-graphs)
-* [Calendars](/calendars)
-* [Transitions](/transitions)
-* [Pie Charts](/pie-charts)
-* [Geo Data and Maps](/geo-data)
-
-Installation
-------------
-1. Install the dependencies
-
-        $ npm install
-    
-2. Run the App
-
-        $ npm start
- 
-3. Open a Browser and goto __http://localhost:3000__
+### Day 2
+* Quantitative Scales
+* Ordinal Scales and Axis
+* Transitions
+* Interacting with Visualizations
+* Improving the Golf Scores Graph
+* Intro to Data Mapping
+* D3 Libraries and Frameworks
+* Bonus: Using Force
+* Bonus Challenges
