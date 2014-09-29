@@ -1,22 +1,32 @@
 Introduction to Data Driven Documents
 =====================================
-This course is designed to introduced javascript developers to the D3 framework.  
+This course is an introduction to Data Driven Documents more popularly know as D3.  This course will introduce the 
+fundementails of creating data visulazations to engineers who have Javascript experience.
 
 Goals
 -----
-* Learn to use D3 for data visualization in a web browser
+* Create Data Visualizations using the DOM
 * Get introduced to SVG
-* Understand how to make all kinds of charts and graphs
-* Understand how to plot data on a map
+* Create Data Visualizations using SVG
+* Understand how to use Scales and Axis in D3
+* Work with Interpolation and Transitions
+* Create Bar, Line, and Pie Charts
+* Use a D3 data map to visualize geographic data
 
 Expectations
 ------------
-* Experience with HTML and CSS
+* Experience with the DOM, HTML, and CSS
 * Proficiency at using Javascript to develop applications
 * Basic understanding of data formats
 
 Agenda
 ------
+
+
+
+
+
+
 * [Intro do Data Driven Documents](/intro)
 * [Manipulating the DOM](/intro)
 * [Bar Graphs](/bar-graph)
