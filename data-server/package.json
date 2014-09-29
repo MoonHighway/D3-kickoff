@@ -1,0 +1,27 @@
+{
+  "name": "data-server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node data-server.js"
+  },
+  "description": "A simple express app that serves data files to be loaded in the D3 class",
+  "main": "./bin/www",
+  "keywords": [
+    "D3",
+    "Data",
+    "TSV",
+    "CSV",
+    "JSON"
+  ],
+  "author": "Moon Highway (Alex Banks)",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.4.2",
+    "debug": "~2.0.0",
+    "ejs": "~0.8.5",
+    "express": "~4.9.0",
+    "morgan": "~1.3.0",
+    "serve-favicon": "~2.1.3"
+  }
+}

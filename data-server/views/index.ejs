@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+      <style>
+          body {
+              padding: 50px;
+              font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+          }
+
+          a {
+              color: #00B7FF;
+          }
+      </style>
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to <%= title %>, a server for serving data to D3 samples.</p>
+
+    <ul>
+        <li>Panorama Pines Golf Course Data<ul>
+                <li><a href="http://localhost:3000/course.json">json</a></li>
+                <li><a href="http://localhost:3000/course.csv">csv</a></li>
+                <li><a href="http://localhost:3000/course.tsv">tsv</a></li>
+            </ul>
+        </li>
+        <li>Scorecard from Panoram Pines<ul>
+                <li><a href="http://localhost:3000/scores.json">json</a></li>
+                <li><a href="http://localhost:3000/scores.csv">csv</a></li>
+                <li><a href="http://localhost:3000/scores.tsv">tsv</a></li>
+            </ul>
+        </li>
+        <li><a href="http://localhost:3000/resorts.json">Ski Resort Info</a></li>
+        <li><a href="http://localhost:3000/racetimes.json">Skier Race Times</a></li>
+        <li><a href="http://localhost:3000/timeline.csv">Timeline</a></li>
+    </ul>
+
+
+  </body>
+</html>

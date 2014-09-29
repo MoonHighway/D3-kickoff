@@ -1,0 +1,91 @@
+[
+    {
+        "resort": "Squaw Valley",
+        "currentBase": 222,
+        "forcast": 12,
+        "difficulty": "expert",
+        "state": "CA",
+
+        //
+        //  TODO: Add the following Data to the Ski Resorts
+        //
+
+        "latitude": -127.23984374982,
+        "longitude": 89.909809890,
+        "visits": 123574859
+    },
+    {
+        "resort": "Kirkwood",
+        "currentBase": 430,
+        "forcast": 24,
+        "difficulty": "expert",
+        "state": "CA"
+    },
+    {
+        "resort": "Heavenly",
+        "currentBase": 134,
+        "forcast": 16,
+        "difficulty": "intermediate",
+        "state": "CA"
+    },
+    {
+        "resort": "Snowbird",
+        "currentBase": 303,
+        "forcast": 6,
+        "difficulty": "expert",
+        "state": "UT"
+    },
+    {
+        "resort": "Alpental",
+        "currentBase": 12,
+        "forcast": 2,
+        "difficulty": "expert",
+        "state": "WA"
+    },
+    {
+        "resort": "Vail",
+        "currentBase": 230,
+        "forcast": 20,
+        "difficulty": "advanced",
+        "state": "CO"
+    },
+    {
+        "resort": "The Canyons",
+        "currentBase": 12,
+        "forcast": 2,
+        "difficulty": "intermediate",
+        "state": "UT"
+    },
+    {
+        "resort": "Big Sky",
+        "currentBase": 305,
+        "forcast": 23,
+        "difficulty": "expert",
+        "state": "MT"
+    },
+    {
+        "resort": "Sun Valley",
+        "currentBase": 340,
+        "forcast": 2,
+        "difficulty": "advanced",
+        "state": "ID"
+    },
+    {
+        "resort": "Taos",
+        "currentBase": 222,
+        "forcast": 12,
+        "difficulty": "advanced",
+        "state": "NM"
+    },
+    {
+        "resort": "Ski Liberty",
+        "currentBase": 30,
+        "forcast": 1,
+        "difficulty": "beginner",
+        "state": "PA"
+    }
+]
+
+//
+//  TODO: Add More Ski Resorts TO This Data List
+//

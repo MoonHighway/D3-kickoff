@@ -1,0 +1,12 @@
+//
+//  TODO Make a JSON collection os ski racer times
+//
+//    limit to like 7 or 8 skers
+//
+
+[
+    {
+        "skier": "skeir name",
+        "time": 63
+    }
+]
