@@ -28,3 +28,5 @@ Data Files
 * [Ski Resort Info](http://localhost:3000/resorts.json)
 * [Skier Race Times](http://localhost:3000/racetimes.json)
 * [Timeline](http://localhost:3000/timeline.csv)
+
+__*note: these links will not work until the data server is running*__
