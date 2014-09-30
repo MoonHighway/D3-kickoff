@@ -1,0 +1,55 @@
+table {
+    border: 5px double black;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+td, th {
+    padding: .5em;
+}
+
+table>thead>tr:first-child>th:first-child {
+    font-family: "Tangerine";
+    font-size: 2em;
+    color: yellow;
+    font-weight: bold;
+}
+
+th, td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+thead {
+    background-color: blue;
+    color: white;
+}
+
+th {
+    font-weight: bold;
+    width: 200px;
+}
+
+tbody td {
+    border: solid 1px #AAA;
+}
+
+/*  MODIFY THE CSS FOR EVERY OTHER ROW */
+
+tbody tr:nth-child(even) {
+    background-color: #EEA;
+    color: blue;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: white;
+    color: black;
+}
+
+tbody td:last-child {
+    border-left: solid 2px black;
+    font-weight: bold;
+    font-size: 1.5em;
+}
