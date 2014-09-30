@@ -1,6 +1,6 @@
 {
   "name": "D3-intro",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Class files for the Moon Highway D3 Intro course.",
   "main": "GruntFile.js",
   "dependencies": {
