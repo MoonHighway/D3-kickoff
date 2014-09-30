@@ -1,3 +1,5 @@
+/*global resorts, d3 */
+
 // Sort the Array by base totals
 resorts.sort(function(a,b) {return b.currentBase-a.currentBase;});
 

@@ -1,3 +1,5 @@
+/*global d3 */
+
 var tech = "HTML5,CSS3,Javascript,D3,jQuery,YUI,Underscore,Backbone,Bootstrap,Node js,Express,EJS,Morgan,CORS,Mocha,Chai,Mongo,Mongoose,Jasmine,Sinon,Angular";
 
 var data = tech.split(",");

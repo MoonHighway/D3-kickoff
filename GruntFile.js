@@ -7,7 +7,11 @@ module.exports = function (grunt) {
                 "*.js",
                 "*.json",
                 "data-server/data/*.js",
-                "data-server/data/*.json"
+                "data-server/data/*.json",
+                "class-exercises/*/*.js",
+                "class-exercises/*/*.json",
+                "class-samples/*/*/*.js",
+                "class-samples/*/*/*.json"
             ],
             options: {
                 jshintrc: ".jshintrc"

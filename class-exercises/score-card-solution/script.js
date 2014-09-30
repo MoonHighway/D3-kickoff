@@ -1,3 +1,5 @@
+/*global round, course, d3 */
+
 var scoreCard,
     thead,
     tbody;
@@ -14,7 +16,7 @@ round.forEach(function(player) {
 course.holes.push({
     hole: 'par',
     par: course.holes.reduce(function(prev, next) {
-        if (typeof prev == "number") {
+        if (typeof prev === "number") {
             return prev + next.par;
         } else {
             return prev.par + next.par;
