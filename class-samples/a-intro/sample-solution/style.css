@@ -1,0 +1,18 @@
+p {
+    margin: .5em 2em;
+    cursor: pointer;
+}
+
+.back {
+    color: white;
+    background-color: red;
+}
+
+p.big {
+    font-size: 2em;
+    color: green;
+}
+
+.reg {
+    color: yellow;
+}
