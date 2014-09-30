@@ -1,0 +1,16 @@
+div.chart {
+    font-size: 0.7em;
+}
+
+div.bar {
+    margin-left: 22em;
+}
+
+div.label {
+    color: yellow;
+    padding-right: 1em;
+    margin-bottom: 2px;
+    float: left;
+    width: 20em;
+    text-align: right;
+}
