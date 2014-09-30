@@ -1,12 +1,34 @@
-//
-//  TODO Make a JSON collection os ski racer times
-//
-//    limit to like 7 or 8 skers
-//
-
 [
     {
-        "skier": "skeir name",
-        "time": 63
+        "skier": "Julia Mancuso",
+        "time": 01:03:39
+    }
+    {
+        "skier": "Lindsey Vonn",
+        "time": 01:04:49
+    }
+    {
+        "skier": "Mikaela Shiffrin",
+        "time": 01:05:39
+    }
+    {
+        "skier": "Laurenne Ross",
+        "time": 01:08:31
+    }
+    {
+        "skier": "Anna Fenninger",
+        "time": 01:09:10
+    }
+    {
+        "skier": "Marie-Michele Gagnon",
+        "time": 01:04:29
+    }
+    {
+        "skier": "Tina Maze",
+        "time": 01:08:12
+    }
+    {
+        "skier": "Maria Hofl-Riesch",
+        "time": 01:04:40
     }
 ]
