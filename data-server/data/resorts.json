@@ -7,7 +7,7 @@
         "state": "CA",
         "latitude": 39.196299,
         "longitude": -120.235446,
-        "visits": 250,412
+        "visits": 250412
     },
     {
         "resort": "Kirkwood",
@@ -17,7 +17,7 @@
         "state": "CA",
         "latitude": 38.702308,
         "longitude": -120.072244,
-        "visits": 148,213
+        "visits": 148213
     },
     {
         "resort": "Heavenly",
@@ -27,7 +27,7 @@
         "state": "CA",
         "latitude": 38.939926,
         "longitude": -119.977187,
-        "visits": 298,213
+        "visits": 298213
         
     },
     {
@@ -38,7 +38,7 @@
         "state": "UT",
         "latitude": 40.583284,
         "longitude": -111.650758,
-        "visits": 138,787
+        "visits": 138787
         
     },
     {
@@ -49,7 +49,7 @@
         "state": "WA",
         "latitude": 47.438104,
         "longitude": -121.417603,
-        "visits": 38,787
+        "visits": 38787
     },
     {
         "resort": "Vail",
@@ -59,7 +59,7 @@
         "state": "CO",
         "latitude": 39.640264,
         "longitude": -106.374195,
-        "visits": 538,724
+        "visits": 538724
     },
     {
         "resort": "The Canyons",
@@ -69,7 +69,7 @@
         "state": "UT",
         "latitude": 40.686284,
         "longitude": -111.553521,
-        "visits": 200,123
+        "visits": 200123
     },
     {
         "resort": "Big Sky",
@@ -79,7 +79,7 @@
         "state": "MT",
         "latitude": 45.261781,
         "longitude": -111.308024,
-        "visits": 100,991
+        "visits": 100991
         
     },
     {
@@ -90,7 +90,7 @@
         "state": "ID",
         "latitude": 43.697129,
         "longitude": -114.351717,
-        "visits": 216,337
+        "visits": 216337
     },
     {
         "resort": "Taos",
@@ -100,7 +100,7 @@
         "state": "NM",
         "latitude": 36.596000,
         "longitude": -105.454500,
-        "visits": 201,445
+        "visits": 201445
 
     },
     {
@@ -111,7 +111,7 @@
         "state": "PA",
         "latitude": 39.770025,
         "longitude": -77.373256,
-        "visits": 411,121
+        "visits": 411121
     },
     {
         "resort": "Steamboat Springs",
@@ -121,7 +121,7 @@
         "state": "CO",
         "latitude": 40.484977,
         "longitude": -106.831716,
-        "visits": 217,500
+        "visits": 217500
     },
     {
         "resort": "Mad River Glen",
@@ -131,7 +131,7 @@
         "state": "VT",
         "latitude": 44.202570,
         "longitude": -72.916820,
-        "visits": 198,231
+        "visits": 198231
     },
     {
         "resort": "Mount Bachelor",
@@ -141,7 +141,7 @@
         "state": "OR",
         "latitude": 43.979167,
         "longitude": -121.688611,
-        "visits": 277,313
+        "visits": 277313
     },
     {
         "resort": "Boyne Mountain",
@@ -151,7 +151,7 @@
         "state": "MI",
         "latitude": 45.332073,
         "longitude": -85.020465,
-        "visits": 222,222
+        "visits": 222222
     },
      {
         "resort": "Jackson Hole",
@@ -161,7 +161,7 @@
         "state": "WY",
         "latitude": 43.479929,
         "longitude": -110.762428,
-        "visits": 319,312
+        "visits": 319312
     }
 ]
 
