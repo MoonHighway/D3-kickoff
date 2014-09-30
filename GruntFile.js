@@ -6,12 +6,8 @@ module.exports = function (grunt) {
             all: [
                 "*.js",
                 "*.json",
-                "*/*.js",
-                "*/*.json",
-                "*/*/*.js",
-                "*/*/*.json",
-                "*/*/*/*.js",
-                "*/*/*/*.json"
+                "data-server/data/*.js",
+                "data-server/data/*.json"
             ],
             options: {
                 jshintrc: ".jshintrc"
