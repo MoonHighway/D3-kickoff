@@ -1,0 +1,39 @@
+div.chart {
+    font-family: Arial;
+    font-size: 0.7em;
+}
+
+div.bar {
+    background-color: yellow;
+    color: #0B537F;
+    height: 2em;
+    line-height: 2em;
+    font-weight: bold;
+    padding-right: 1em;
+    text-align: right;
+    margin-left: 22em;
+}
+
+div.highlight {
+    background-color: orange;
+}
+
+div.label {
+    color: yellow;
+    font-size: 1
+height: 2em;
+    line-height: 2em;
+    padding-right: 1em;
+    margin-bottom: 2px;
+    float: left;
+    width: 20em;
+    text-align: right;
+}
+
+select {
+    position: relative;
+    top: -1.7em;
+    float: right;
+    font-size: 2em;
+    margin-right: 2em;
+}

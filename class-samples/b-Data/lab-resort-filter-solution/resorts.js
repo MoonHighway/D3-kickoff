@@ -1,4 +1,4 @@
-[
+var resorts = [
     {
         "resort": "Squaw Valley",
         "currentBase": 222,
@@ -28,7 +28,7 @@
         "latitude": 38.939926,
         "longitude": -119.977187,
         "visits": 298213
-        
+
     },
     {
         "resort": "Snowbird",
@@ -39,7 +39,7 @@
         "latitude": 40.583284,
         "longitude": -111.650758,
         "visits": 138787
-        
+
     },
     {
         "resort": "Alpental",
@@ -80,7 +80,7 @@
         "latitude": 45.261781,
         "longitude": -111.308024,
         "visits": 100991
-        
+
     },
     {
         "resort": "Sun Valley",
@@ -163,7 +163,7 @@
         "longitude": -85.020465,
         "visits": 222222
     },
-     {
+    {
         "resort": "Jackson Hole",
         "currentBase": 415,
         "forecast": 9,
@@ -174,5 +174,3 @@
         "visits": 319312
     }
 ]
-
-
