@@ -2,90 +2,167 @@
     {
         "resort": "Squaw Valley",
         "currentBase": 222,
-        "forcast": 12,
+        "forecast": 12,
         "difficulty": "expert",
         "state": "CA",
-
-        //
-        //  TODO: Add the following Data to the Ski Resorts
-        //
-
-        "latitude": -127.23984374982,
-        "longitude": 89.909809890,
-        "visits": 123574859
+        "latitude": 39.196299,
+        "longitude": -120.235446,
+        "visits": 250,412
     },
     {
         "resort": "Kirkwood",
-        "currentBase": 430,
-        "forcast": 24,
+        "currentBase": 330,
+        "forecast": 24,
         "difficulty": "expert",
-        "state": "CA"
+        "state": "CA",
+        "latitude": 38.702308,
+        "longitude": -120.072244,
+        "visits": 148,213
     },
     {
         "resort": "Heavenly",
         "currentBase": 134,
-        "forcast": 16,
+        "forecast": 16,
         "difficulty": "intermediate",
-        "state": "CA"
+        "state": "CA",
+        "latitude": 38.939926,
+        "longitude": -119.977187,
+        "visits": 298,213
+        
     },
     {
         "resort": "Snowbird",
         "currentBase": 303,
-        "forcast": 6,
+        "forecast": 6,
         "difficulty": "expert",
-        "state": "UT"
+        "state": "UT",
+        "latitude": 40.583284,
+        "longitude": -111.650758,
+        "visits": 138,787
+        
     },
     {
         "resort": "Alpental",
-        "currentBase": 12,
-        "forcast": 2,
+        "currentBase": 212,
+        "forecast": 2,
         "difficulty": "expert",
-        "state": "WA"
+        "state": "WA",
+        "latitude": 47.438104,
+        "longitude": -121.417603,
+        "visits": 38,787
     },
     {
         "resort": "Vail",
         "currentBase": 230,
-        "forcast": 20,
+        "forecast": 20,
         "difficulty": "advanced",
-        "state": "CO"
+        "state": "CO",
+        "latitude": 39.640264,
+        "longitude": -106.374195,
+        "visits": 538,724
     },
     {
         "resort": "The Canyons",
-        "currentBase": 12,
-        "forcast": 2,
+        "currentBase": 412,
+        "forecast": 2,
         "difficulty": "intermediate",
-        "state": "UT"
+        "state": "UT",
+        "latitude": 40.686284,
+        "longitude": -111.553521,
+        "visits": 200,123
     },
     {
         "resort": "Big Sky",
         "currentBase": 305,
-        "forcast": 23,
+        "forecast": 23,
         "difficulty": "expert",
-        "state": "MT"
+        "state": "MT",
+        "latitude": 45.261781,
+        "longitude": -111.308024,
+        "visits": 100,991
+        
     },
     {
         "resort": "Sun Valley",
         "currentBase": 340,
-        "forcast": 2,
+        "forecast": 2,
         "difficulty": "advanced",
-        "state": "ID"
+        "state": "ID",
+        "latitude": 43.697129,
+        "longitude": -114.351717,
+        "visits": 216,337
     },
     {
         "resort": "Taos",
         "currentBase": 222,
-        "forcast": 12,
+        "forecast": 12,
         "difficulty": "advanced",
-        "state": "NM"
+        "state": "NM",
+        "latitude": 36.596000,
+        "longitude": -105.454500,
+        "visits": 201,445
+
     },
     {
         "resort": "Ski Liberty",
-        "currentBase": 30,
-        "forcast": 1,
+        "currentBase": 175,
+        "forecast": 1,
         "difficulty": "beginner",
-        "state": "PA"
+        "state": "PA",
+        "latitude": 39.770025,
+        "longitude": -77.373256,
+        "visits": 411,121
+    },
+    {
+        "resort": "Steamboat Springs",
+        "currentBase": 275,
+        "forecast": 10,
+        "difficulty": "advanced",
+        "state": "CO",
+        "latitude": 40.484977,
+        "longitude": -106.831716,
+        "visits": 217,500
+    },
+    {
+        "resort": "Mad River Glen",
+        "currentBase": 200,
+        "forecast": 8,
+        "difficulty": "advanced",
+        "state": "VT",
+        "latitude": 44.202570,
+        "longitude": -72.916820,
+        "visits": 198,231
+    },
+    {
+        "resort": "Mount Bachelor",
+        "currentBase": 205,
+        "forecast": 3,
+        "difficulty": "advanced",
+        "state": "OR",
+        "latitude": 43.979167,
+        "longitude": -121.688611,
+        "visits": 277,313
+    },
+    {
+        "resort": "Boyne Mountain",
+        "currentBase": 245,
+        "forecast": 1,
+        "difficulty": "intermediate",
+        "state": "MI",
+        "latitude": 45.332073,
+        "longitude": -85.020465,
+        "visits": 222,222
+    },
+     {
+        "resort": "Jackson Hole",
+        "currentBase": 415,
+        "forecast": 9,
+        "difficulty": "expert",
+        "state": "WY",
+        "latitude": 43.479929,
+        "longitude": -110.762428,
+        "visits": 319,312
     }
 ]
 
-//
-//  TODO: Add More Ski Resorts TO This Data List
-//
+
