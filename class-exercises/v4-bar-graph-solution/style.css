@@ -1,0 +1,77 @@
+/* Centering the target */
+div#target {
+    position: absolute;
+    height: 60%;
+    width: 80%;
+    left: 50%;
+    top: 40%;
+    margin-top: -250px;
+    margin-left: -300px;
+}
+
+div#buttons {
+    width: 800px;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    margin-left: -400px;
+    bottom: 5%;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: .5s ease-out;
+    font-size: 1.8em;
+}
+
+/********************************/
+
+.axis path, .axis line {
+    fill: none;
+    stroke: blue;
+    stroke-width: 2px;
+}
+
+.axis text {
+    font: 16px sans-serif;
+    fill: red;
+}
+
+.axis {
+    stroke: black;
+    shape-rendering: crispEdges;
+    stroke-opacity: .2;
+}
+
+.ticksOnly path,
+.ticksOnly line {
+    fill: none;
+    stroke: none;
+}
+
+.ticksOnly text {
+    font: 2em sans-serif;
+    font-weight: bold;
+}
+
+#tool-tip {
+    position: absolute;
+    opacity: 0;
+    font-size: 3em;
+    background-color: white;
+    padding: .5em;
+    border: solid 2px red;
+    border-radius: .2em;
+    font-family: sans-serif;
+}
+
+.title {
+    font: 2em sans-serif;
+    fill: red;
+    font-weight: bold;
+    text-anchor: middle;
+}
