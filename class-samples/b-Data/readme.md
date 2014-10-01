@@ -1,5 +1,5 @@
-Working with Array Data
-=======================
+Working with Data
+=================
 The following samples demonstrate how to work with array data using D3.
 
 ####  Min and Max
