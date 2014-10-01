@@ -173,4 +173,4 @@ var resorts = [
         "longitude": -110.762428,
         "visits": 319312
     }
-]
+];

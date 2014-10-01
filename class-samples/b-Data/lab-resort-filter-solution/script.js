@@ -1,3 +1,5 @@
+/*global print, d3, resorts */
+
 //  Nest Data to Populate Drop Down List
 var nest = d3.nest()
     .key(function(d) {
@@ -71,7 +73,7 @@ function print(resorts, state) {
     // Add highlight class to all selected States
     d3.selectAll('div.bar')
         .filter(function (d) {
-            return d.state == state;
+            return d.state === state;
         })
         .classed('highlight', true);
 

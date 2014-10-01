@@ -1,3 +1,5 @@
+/*global resorts, d3 */
+
 //
 //  TODO #3: Nest Data to Populate Drop Down List
 //
