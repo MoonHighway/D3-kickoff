@@ -1,5 +1,6 @@
 Golf Round Scores Bar Graph
 ===========================
+[JSBIN 1 - 10](http://jsbin.com/havupo/10/quiet)
 A graph to graph pars, birdies, bogies, and double bogies from a golf round.
 
 *note: this sample will now wook without running the data server*
