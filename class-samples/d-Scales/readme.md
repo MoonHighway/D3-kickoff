@@ -39,9 +39,12 @@ Scales are a vital part to data visualization, and D3 comes packed with tools to
 
 [Ordinal Scales](https://github.com/mbostock/d3/wiki/Ordinal-Scales)
 ---------------------
-* [Ordinal Sample]()       // Names, Colors
-* [Range Bands Sample]()   // round, bands
+* [Ordinal Sample (1 - 9)](http://jsbin.com/sabuwo/1/edit) 
 
+
+### Bonus Challenge
+Can you colors to the bars on your ski resort bar graph?
+[solution](http://jsbin.com/nubuxe/1/quiet)
 
 ### Bonus Challenge
 Can you build your own timeline with significant dates?
