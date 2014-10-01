@@ -29,7 +29,6 @@ Agenda
 * Loading and Traversing Data
 * Introducing SVG
 * Creating Golf Scores Bar Graph
-* Bonus Challenges
 
 ### Day 2
 * Quantitative Scales
@@ -38,9 +37,8 @@ Agenda
 * Interacting with Visualizations
 * Improving the Golf Scores Graph
 * Intro to Data Mapping
-* D3 Libraries and Frameworks
+* Bonus: D3 Libraries and Frameworks
 * Bonus: Using Force
-* Bonus Challenges
 
 Download the Files
 ------------------
