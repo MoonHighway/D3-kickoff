@@ -1,0 +1,19 @@
+path {
+    fill: #ccc;
+    stroke: #fff;
+    stroke-width: .5px;
+}
+
+path:hover {
+    fill: red;
+}
+.bubble {
+    fill: yellow;
+    fill-opacity: .5;
+    stroke: #003;
+    stroke-width: .5px;
+}
+
+svg {
+    transform: rotate(-13deg);
+}

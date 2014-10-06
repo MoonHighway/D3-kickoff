@@ -1,0 +1,17 @@
+path {
+    fill: transparent;
+    stroke: #fff;
+    stroke-width: .5px;
+}
+
+path:hover {
+    fill: yellow;
+}
+
+.bubble {
+    fill: yellow;
+    fill-opacity: .5;
+    stroke: #003;
+    stroke-width: .5px;
+}
+
