@@ -37,8 +37,6 @@ Agenda
 * Interacting with Visualizations
 * Improving the Golf Scores Graph
 * Intro to Data Mapping
-* Bonus: D3 Libraries and Frameworks
-* Bonus: Using Force
 
 Download the Files
 ------------------
