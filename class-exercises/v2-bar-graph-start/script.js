@@ -66,34 +66,33 @@ function barGraphRound(round, course, w, h, type) {
 
     var svg,
         scores = [],
-        filter = function(player, score) {
-            return player.strokes.filter(function(stroke) {
-                return stroke == score;
+        filterPar = function(player, type) {
+            return player.strokes.filter(function(stroke, i) {
+                var goal,
+                    hole = course.holes[i];
+
+                if (type == "birdie") {
+                    goal = hole.par-1;
+                } else if (type == "bogie") {
+                    goal = hole.par+1;
+                } else if (type == "double") {
+                    goal = hole.par+2;
+                } else {
+                    goal = hole.par;
+                }
+                return stroke == goal;
             }).length;
         };
 
     // Takes the round and converts it to usable score data
     round.forEach(function(player, i) {
-        var query,
-            hole = course.holes[i];
-
-        if (type == "birdie") {
-            query = hole.par-1;
-        } else if (type == "bogie") {
-            query = hole.par+1;
-        } else if (type == "double") {
-            query = hole.par+2;
-        } else {
-            query = hole.par;
-        }
-
         if (scores[i]) {
             scores[i].player = player.player;
-            scores[i].results = filter(player, query);
+            scores[i].results = filterPar(player, type);
         } else {
             scores.push({
                 player: player.player,
-                results: filter(player, query)
+                results: filterPar(player, type)
             });
         }
     });
