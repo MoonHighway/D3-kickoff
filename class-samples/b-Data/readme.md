@@ -252,9 +252,9 @@ The following samples demonstrate how to work with array data using D3.
 #### Max or Min
 
         // The Max Current Base
-        var max = d3.max(arr.map(function(resort) {
+        var max = d3.max(arr, function(resort) {
           return resort.currentBase;
-        }));
+        });
         
         var maxResort = arr.filter(function(resort) {
           return resort.currentBase == max;
@@ -265,9 +265,9 @@ The following samples demonstrate how to work with array data using D3.
 #### Extent
 
         // The Max Current Base
-        var ext = d3.extent(arr.map(function(resort) {
+        var ext = d3.extent(arr, function(resort) {
           return resort.currentBase;
-        }));
+        });
         
         
         console.log( ext );
