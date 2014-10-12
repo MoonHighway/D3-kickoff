@@ -14,13 +14,16 @@ data = data.map(function(tech) {
 console.log("New Data");
 console.log(data);
 
-function draw(data) { // <- B
-
+ // Draws Data on the DOM
+ 
+function draw(data) {
+    
     d3.select("body").selectAll("div")
         .data(data)
         .enter()
         .append("div");
-
+        
+        
     d3.select("body").selectAll("div")
         .data(data)
         .style("width", function(d) {
